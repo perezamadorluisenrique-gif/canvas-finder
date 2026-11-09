@@ -1,0 +1,10 @@
+{
+  "id": "canvas-finder",
+  "name": "Canvas Finder",
+  "version": "0.1.0",
+  "minAppVersion": "1.7.2",
+  "description": "Fuzzy-search the cards and files on a canvas and jump straight to the match.",
+  "author": "Siulved54",
+  "authorUrl": "https://github.com/perezamadorluisenrique-gif",
+  "isDesktopOnly": false
+}
